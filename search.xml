@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>我在往家里路由器上迁东西</title>
+      <link href="zheteng/home/"/>
+      <url>zheteng/home/</url>
+      
+        <content type="html"><![CDATA[<h1 id="说在前头"><a href="#说在前头" class="headerlink" title="说在前头"></a>说在前头</h1><p>上次文章还没写完呢，先鸽着。我已经决定不续费阿里云服务器了。但是少部分项目，如SnowBao雪宝，迁移到云函数上要改很多东西，我懒得动，所以还是要有一个简单的服务器。</p><h1 id="开始折腾"><a href="#开始折腾" class="headerlink" title="开始折腾"></a>开始折腾</h1><p>回家了，得继续折腾！为此，我入手了一台二手入门软路由，配置如下：</p><table><thead><tr><th>硬件</th><th>型号</th></tr></thead><tbody><tr><td>主板</td><td>升腾NI945W-3</td></tr><tr><td>CPU</td><td>Intel(R) Atom(TM) CPU D2550 x86_64</td></tr><tr><td>内存</td><td>金士顿DDR3 2G</td></tr><tr><td>SSD</td><td>慧荣SM2244LTAB 8G</td></tr></tbody></table><p>卖家帮忙刷好了eSir编译的OpenWrt，由于我家联通宽带有公网IPv4地址，所以我就想说干脆搭一台宝塔服务器放家里算了。我部署的一些网站并不要求高可用，故家里短暂停电也没有太大关系。</p><p>我没有将其作为主路由使用，而是作为客户端使用，那么它的路由功能相当于废了！因为我不想引起现有路由配置的改变，懒得动。</p><h1 id="哪来的公网IPv4地址"><a href="#哪来的公网IPv4地址" class="headerlink" title="哪来的公网IPv4地址"></a>哪来的公网IPv4地址</h1><p>现在运营商一般拨号后给的是内网IP地址了，不像十几年前我家刚接入ADSL 12M铜线宽带每个人还有一个独立IP，甚至80端口还是开放的。现在买宽带的人越来越多，而我们国家被分配的IPv4地址少之又少，所以运营商只能使用NAT技术来缓解公网IPv4地址紧缺的情况。</p><p>没写完，我先睡觉，醒来继续更。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 服务器 </tag>
+            
+            <tag> CentOS </tag>
+            
+            <tag> OpenWrt </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我在用云函数和Serverless</title>
       <link href="zheteng/tcb/"/>
       <url>zheteng/tcb/</url>
