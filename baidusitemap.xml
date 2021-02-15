@@ -1,27 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://looyeagee.cn/zheteng/home/</loc>
-    <lastmod>2021-01-21</lastmod>
+    <loc>https://looyeagee.cn/software/zuoyebao/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/zheteng/UTermux/</loc>
+    <lastmod>2021-02-15</lastmod>
   </url>
   <url>
     <loc>https://looyeagee.cn/zheteng/tcb/</loc>
-    <lastmod>2021-01-14</lastmod>
+    <lastmod>2021-02-15</lastmod>
   </url>
   <url>
     <loc>https://looyeagee.cn/zheteng/goaccess/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/zheteng/acme/</loc>
-    <lastmod>2021-01-14</lastmod>
+    <lastmod>2021-02-15</lastmod>
   </url>
   <url>
     <loc>https://looyeagee.cn/zheteng/frp/</loc>
-    <lastmod>2021-01-14</lastmod>
+    <lastmod>2021-02-15</lastmod>
   </url>
   <url>
     <loc>https://looyeagee.cn/zheteng/ctf/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/zheteng/acme/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/software/tanbaishuo/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/software/snowbao/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/software/class_schedule/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/notes/SSM/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/notes/MP/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/zheteng/home/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/stories/snow2018/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://looyeagee.cn/zheteng/R_UEFI/</loc>
     <lastmod>2021-01-14</lastmod>
   </url>
   <url>
@@ -29,51 +65,7 @@
     <lastmod>2021-01-14</lastmod>
   </url>
   <url>
-    <loc>https://looyeagee.cn/zheteng/R_UEFI/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/zheteng/UTermux/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/software/zuoyebao/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/stories/snow2018/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/software/tanbaishuo/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/software/snowbao/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/notes/Ubuntu-start/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
     <loc>https://looyeagee.cn/notes/manjaro/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/software/class_schedule/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/notes/SSM/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/notes/Ubuntu-LAMP/</loc>
-    <lastmod>2021-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://looyeagee.cn/notes/MP/</loc>
     <lastmod>2021-01-14</lastmod>
   </url>
 </urlset> 
